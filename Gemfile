@@ -6,6 +6,6 @@ else
   puppetversion = ['>= 3.4.3']
 end
 
-gem 'puppet-lint', '1.1.0'
+gem 'puppet-lint'
 gem 'puppetlabs_spec_helper'
 gem 'puppet', puppetversion
